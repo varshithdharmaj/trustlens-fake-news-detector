@@ -1,0 +1,6 @@
+<iframe
+  src="https://huggingface.co/spaces/sayian99/fake-news-detector"
+  width="100%"
+  height="600"
+  frameborder="0"
+></iframe>
